@@ -34,5 +34,6 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+1. Open.
+2. Buy.
+3. Close.
