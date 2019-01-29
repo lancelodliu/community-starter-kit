@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Mona is great.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Sell.
 
 ## Getting started
 
